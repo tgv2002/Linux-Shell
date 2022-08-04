@@ -1,5 +1,4 @@
-# sHELL
-I hope you notice the emphasised letters, which describe my experience.
+# LINUX SHELL
 
 ## Compiling and running
 1. A makefile has been included in the zip file for compiling the code. Just run the command 'make', and it would compile all the involved files appropriately.
